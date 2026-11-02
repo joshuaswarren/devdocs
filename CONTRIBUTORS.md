@@ -1,0 +1,60 @@
+# Contributors
+
+<!-- BEGIN GENERATED CONTRIBUTORS (contributors.yml; do not hand-edit) -->
+
+- [@adamburvill](https://github.com/adamburvill)
+- [@alanablett](https://github.com/alanablett)
+- [@alankent](https://github.com/alankent)
+- [@andrewkett](https://github.com/andrewkett)
+- [@anupdugar](https://github.com/anupdugar)
+- [@balex13](https://github.com/balex13)
+- [@bluk](https://github.com/bluk)
+- [@bobbyshaw](https://github.com/bobbyshaw)
+- [@buskamuza](https://github.com/buskamuza)
+- [@chadrien](https://github.com/chadrien)
+- [@ctubio](https://github.com/ctubio)
+- [@daowz](https://github.com/daowz)
+- [@denchev](https://github.com/denchev)
+- [@difleming](https://github.com/difleming)
+- [@drublov](https://github.com/drublov)
+- [@entendu](https://github.com/entendu)
+- [@ericthehacker](https://github.com/ericthehacker)
+- [@erikhansen](https://github.com/erikhansen)
+- [@Flyingmana](https://github.com/Flyingmana)
+- [@ganela](https://github.com/ganela)
+- [@hostep](https://github.com/hostep)
+- [@jonathanvaughn](https://github.com/jonathanvaughn)
+- [@keharper](https://github.com/keharper)
+- [@kristof-ringleff](https://github.com/kristof-ringleff)
+- [@kumabotz](https://github.com/kumabotz)
+- [@LambC40P](https://github.com/LambC40P)
+- [@lazyguru](https://github.com/lazyguru)
+- [@lewalkingdad](https://github.com/lewalkingdad)
+- [@mariuszgomse](https://github.com/mariuszgomse)
+- [@mattrcullum](https://github.com/mattrcullum)
+- [@maxbucknell](https://github.com/maxbucknell)
+- [@mazhalai](https://github.com/mazhalai)
+- [@mzeis](https://github.com/mzeis)
+- [@opepin](https://github.com/opepin)
+- [@otoolec](https://github.com/otoolec)
+- [@paliarush](https://github.com/paliarush)
+- [@peterjaap](https://github.com/peterjaap)
+- [@rafaelstz](https://github.com/rafaelstz)
+- [@riconeitzel](https://github.com/riconeitzel)
+- [@rob3000](https://github.com/rob3000)
+- [@sambolek](https://github.com/sambolek)
+- [@sprankhub](https://github.com/sprankhub)
+- [@srsutasirisap](https://github.com/srsutasirisap)
+- [@steverobbins](https://github.com/steverobbins)
+- [@t-richards](https://github.com/t-richards)
+- [@tdobbs](https://github.com/tdobbs)
+- [@Tenacious-G](https://github.com/Tenacious-G)
+- [@tunght13488](https://github.com/tunght13488)
+- [@wkhayrattee](https://github.com/wkhayrattee)
+
+_Listed are GitHub accounts only. Anonymous (email-only) commit authors
+cannot be enumerated through the GitHub API and are credited by hand in
+the sections above where known._
+
+<!-- END GENERATED CONTRIBUTORS -->
+
